@@ -1,0 +1,795 @@
+{
+    "data": [
+        {
+            "transactionId": "32b1da56-2d70-4375-b5af-326a628bd7e1",
+            "entityId": 9210883,
+            "campaignId": 7301379,
+            "adgroupId": 9210883,
+            "timestamp": "2024-06-28 23:37:00.069043",
+            "startTime": null,
+            "transactionDate": "2024-06-28",
+            "adId": null,
+            "oldValue": {
+                "bidAmount": 0.19,
+                "bidStrategy": "LOWEST_COST_WITH_BID_CAP",
+                "providerUpdationTime": "2024-06-28T04:50:27"
+            },
+            "newValue": {
+                "ads": [
+                    {
+                        "id": "120211966572020398"
+                    },
+                    {
+                        "id": "120211966572360398"
+                    },
+                    {
+                        "id": "120211966570780398"
+                    },
+                    {
+                        "id": "120211966571080398"
+                    },
+                    {
+                        "id": "120211966570690398"
+                    },
+                    {
+                        "id": "120211966571630398"
+                    }
+                ],
+                "name": "2024_06_14_337714b99fee36781679e78f7c4110_set",
+                "status": "ACTIVE",
+                "bidAmount": 0.17,
+                "startTime": "2024-06-19T04:00:00.000000",
+                "budgetType": "DAILY",
+                "externalId": "120211966569300398",
+                "internalId": 9210883,
+                "pacingType": [
+                    "standard"
+                ],
+                "targetings": {
+                    "age_max": 65,
+                    "age_min": 18,
+                    "geo_locations": {
+                        "countries": [
+                            "US"
+                        ],
+                        "location_types": [
+                            "home",
+                            "recent"
+                        ]
+                    },
+                    "device_platforms": [
+                        "mobile"
+                    ],
+                    "facebook_positions": [
+                        "feed",
+                        "groups_feed",
+                        "biz_disco_feed",
+                        "facebook_reels",
+                        "facebook_reels_overlay",
+                        "video_feeds",
+                        "instant_article",
+                        "instream_video",
+                        "marketplace",
+                        "story",
+                        "search"
+                    ],
+                    "messenger_positions": [
+                        "messenger_home",
+                        "story"
+                    ],
+                    "publisher_platforms": [
+                        "facebook",
+                        "audience_network",
+                        "messenger"
+                    ],
+                    "excluded_geo_locations": {
+                        "country_groups": [
+                            "europe"
+                        ],
+                        "location_types": [
+                            "home",
+                            "recent"
+                        ]
+                    },
+                    "audience_network_positions": [
+                        "classic",
+                        "instream_video",
+                        "rewarded_video"
+                    ]
+                },
+                "bidStrategy": "LOWEST_COST_WITH_BID_CAP",
+                "budgetAmount": 1.0,
+                "learningStatus": "SUCCESS",
+                "effectiveStatus": "ACTIVE",
+                "optimizationGoal": "OFFSITE_CONVERSIONS",
+                "campaignExternalId": "120211966568920398",
+                "providerCreationTime": "2024-06-18T15:12:31.000000",
+                "providerUpdationTime": "2024-06-28T17:50:39.000000",
+                "buySideProviderAccountExternalId": "548895860761831"
+            },
+            "additionalDetails": {
+                "count": 1,
+                "ad_account_id": "232"
+            },
+            "oldAssets": null,
+            "newAssets": null,
+            "oldDetails": null,
+            "newDetails": null,
+            "oldTargetings": null,
+            "newTargetings": null,
+            "oldName": null,
+            "newName": null,
+            "oldStatus": null,
+            "newStatus": null,
+            "oldEffectiveStatus": null,
+            "newEffectiveStatus": null,
+            "oldBidStrategy": "LOWEST_COST_WITH_BID_CAP",
+            "newBidStrategy": "LOWEST_COST_WITH_BID_CAP",
+            "buySideProviderCode": "fb",
+            "reason": null,
+            "eventMasterName": "ADGROUP_BID_STRATEGY_UPDATE",
+            "entityType": "ADGROUP",
+            "buySideAdAccountId": 232,
+            "userAccountId": 11,
+            "businessAccountId": 2,
+            "teamId": 174,
+            "oldBidAmount": 0.19,
+            "newBidAmount": 0.17,
+            "bidDiff": -0.02,
+            "bidDiffPercent": -0.11,
+            "oldBudgetAmount": null,
+            "newBudgetAmount": null,
+            "budgetDiff": null,
+            "budgetDiffPercent": null,
+            "transactionDateTime": "Value(YearOfEra,4,19,EXCEEDS_PAD)'-'Value(MonthOfYear,2)'-'Value(DayOfMonth,2)",
+            "entityName": "2024_06_14_337714b99fee36781679e78f7c4110_set",
+            "adExternalId": null,
+            "adName": null,
+            "adgroupExternalId": "120211966569300398",
+            "adgroupName": "2024_06_14_337714b99fee36781679e78f7c4110_set",
+            "campaignExternalID": "120211966568920398",
+            "campaignName": "2024_06_14_337714b99fee36781679e78f7c4110",
+            "buySideProviderAccountId": 232,
+            "buySideProviderAccountExternalId": "548895860761831",
+            "buySideProviderAccountName": "FrostMag.com",
+            "teamName": "Team AI XML",
+            "changedById": 11,
+            "changedBy": "system@automate360.com",
+            "changedByType": "SYSTEM",
+            "changeByBusinessAccountId": "2"
+        },
+         {
+            "transactionId": "d878d39b-dd61-4d30-8583-7672b33e5d65",
+            "entityId": 6737167,
+            "campaignId": 5193720,
+            "adgroupId": 6737167,
+            "timestamp": "2024-06-28 23:36:54.843559",
+            "startTime": null,
+            "transactionDate": "2024-06-28",
+            "adId": null,
+            "oldValue": {
+                "bidAmount": 0.33,
+                "bidStrategy": "LOWEST_COST_WITH_BID_CAP",
+                "providerUpdationTime": "2024-06-28T07:41:22"
+            },
+            "newValue": {
+                "ads": [
+                    {
+                        "id": "120209168414830774"
+                    },
+                    {
+                        "id": "120209168413950774"
+                    },
+                    {
+                        "id": "120209168415650774"
+                    },
+                    {
+                        "id": "120209168415540774"
+                    },
+                    {
+                        "id": "120209168413680774"
+                    },
+                    {
+                        "id": "120209168414530774"
+                    },
+                    {
+                        "id": "120209168413160774"
+                    },
+                    {
+                        "id": "120209168413040774"
+                    }
+                ],
+                "name": "2024_05_22_c83ba2189d5c663514c212e23587a8_set",
+                "status": "ACTIVE",
+                "bidAmount": 0.29,
+                "startTime": "2024-05-24T04:00:00.000000",
+                "budgetType": "DAILY",
+                "externalId": "120209168407180774",
+                "internalId": 6737167,
+                "pacingType": [
+                    "standard"
+                ],
+                "targetings": {
+                    "age_max": 65,
+                    "age_min": 18,
+                    "geo_locations": {
+                        "countries": [
+                            "US"
+                        ],
+                        "location_types": [
+                            "home",
+                            "recent"
+                        ]
+                    },
+                    "device_platforms": [
+                        "mobile"
+                    ],
+                    "facebook_positions": [
+                        "feed",
+                        "groups_feed",
+                        "biz_disco_feed",
+                        "facebook_reels",
+                        "facebook_reels_overlay",
+                        "video_feeds",
+                        "instant_article",
+                        "instream_video",
+                        "marketplace",
+                        "story",
+                        "search"
+                    ],
+                    "instagram_positions": [
+                        "stream",
+                        "ig_search",
+                        "story",
+                        "explore",
+                        "reels",
+                        "explore_home",
+                        "profile_feed"
+                    ],
+                    "messenger_positions": [
+                        "messenger_home",
+                        "story"
+                    ],
+                    "publisher_platforms": [
+                        "facebook",
+                        "instagram",
+                        "audience_network",
+                        "messenger"
+                    ],
+                    "audience_network_positions": [
+                        "classic",
+                        "instream_video",
+                        "rewarded_video"
+                    ]
+                },
+                "bidStrategy": "LOWEST_COST_WITH_BID_CAP",
+                "budgetAmount": 3.0,
+                "learningStatus": "SUCCESS",
+                "effectiveStatus": "ACTIVE",
+                "optimizationGoal": "OFFSITE_CONVERSIONS",
+                "campaignExternalId": "120209168407140774",
+                "providerCreationTime": "2024-05-23T22:08:21.000000",
+                "providerUpdationTime": "2024-06-28T17:51:07.000000",
+                "buySideProviderAccountExternalId": "407868411949299"
+            },
+            "additionalDetails": {
+                "count": 1,
+                "ad_account_id": "909"
+            },
+            "oldAssets": null,
+            "newAssets": null,
+            "oldDetails": null,
+            "newDetails": null,
+            "oldTargetings": null,
+            "newTargetings": null,
+            "oldName": null,
+            "newName": null,
+            "oldStatus": null,
+            "newStatus": null,
+            "oldEffectiveStatus": null,
+            "newEffectiveStatus": null,
+            "oldBidStrategy": "LOWEST_COST_WITH_BID_CAP",
+            "newBidStrategy": "LOWEST_COST_WITH_BID_CAP",
+            "buySideProviderCode": "fb",
+            "reason": null,
+            "eventMasterName": "ADGROUP_BID_STRATEGY_UPDATE",
+            "entityType": "ADGROUP",
+            "buySideAdAccountId": 909,
+            "userAccountId": 11,
+            "businessAccountId": 2,
+            "teamId": 108,
+            "oldBidAmount": 0.33,
+            "newBidAmount": 0.29,
+            "bidDiff": -0.04,
+            "bidDiffPercent": -0.12,
+            "oldBudgetAmount": null,
+            "newBudgetAmount": null,
+            "budgetDiff": null,
+            "budgetDiffPercent": null,
+            "transactionDateTime": "Value(YearOfEra,4,19,EXCEEDS_PAD)'-'Value(MonthOfYear,2)'-'Value(DayOfMonth,2)",
+            "entityName": "2024_05_22_c83ba2189d5c663514c212e23587a8_set",
+            "adExternalId": null,
+            "adName": null,
+            "adgroupExternalId": "120209168407180774",
+            "adgroupName": "2024_05_22_c83ba2189d5c663514c212e23587a8_set",
+            "campaignExternalID": "120209168407140774",
+            "campaignName": "2024_05_22_c83ba2189d5c663514c212e23587a8",
+            "buySideProviderAccountId": 909,
+            "buySideProviderAccountExternalId": "407868411949299",
+            "buySideProviderAccountName": "SearchLynk.net AB",
+            "teamName": "Team AI",
+            "changedById": 11,
+            "changedBy": "system@automate360.com",
+            "changedByType": "SYSTEM",
+            "changeByBusinessAccountId": "2"
+        },
+         {
+            "transactionId": "ec2b8520-3b38-4144-813e-f32c3099f6eb",
+            "entityId": 9210877,
+            "campaignId": 7301370,
+            "adgroupId": 9210877,
+            "timestamp": "2024-06-28 23:36:58.945832",
+            "startTime": null,
+            "transactionDate": "2024-06-28",
+            "adId": null,
+            "oldValue": {
+                "bidAmount": 0.84,
+                "bidStrategy": "LOWEST_COST_WITH_BID_CAP",
+                "providerUpdationTime": "2024-06-28T08:50:52"
+            },
+            "newValue": {
+                "ads": [
+                    {
+                        "id": "120211966995880398"
+                    },
+                    {
+                        "id": "120211966995570398"
+                    },
+                    {
+                        "id": "120211966995970398"
+                    },
+                    {
+                        "id": "120211966995410398"
+                    },
+                    {
+                        "id": "120211966996090398"
+                    },
+                    {
+                        "id": "120211966995730398"
+                    }
+                ],
+                "name": "2024_06_18_b1185b9498f937a03522edba616170_set",
+                "status": "ACTIVE",
+                "bidAmount": 0.75,
+                "startTime": "2024-06-19T04:00:00.000000",
+                "budgetType": "DAILY",
+                "externalId": "120211966993910398",
+                "internalId": 9210877,
+                "pacingType": [
+                    "standard"
+                ],
+                "targetings": {
+                    "age_max": 65,
+                    "age_min": 18,
+                    "geo_locations": {
+                        "countries": [
+                            "US"
+                        ],
+                        "location_types": [
+                            "home",
+                            "recent"
+                        ]
+                    },
+                    "device_platforms": [
+                        "mobile"
+                    ],
+                    "facebook_positions": [
+                        "feed",
+                        "groups_feed",
+                        "biz_disco_feed",
+                        "facebook_reels",
+                        "facebook_reels_overlay",
+                        "video_feeds",
+                        "instant_article",
+                        "instream_video",
+                        "marketplace",
+                        "story",
+                        "search"
+                    ],
+                    "messenger_positions": [
+                        "messenger_home",
+                        "story"
+                    ],
+                    "publisher_platforms": [
+                        "facebook",
+                        "audience_network",
+                        "messenger"
+                    ],
+                    "excluded_geo_locations": {
+                        "country_groups": [
+                            "europe"
+                        ],
+                        "location_types": [
+                            "home",
+                            "recent"
+                        ]
+                    },
+                    "audience_network_positions": [
+                        "classic",
+                        "instream_video",
+                        "rewarded_video"
+                    ]
+                },
+                "bidStrategy": "LOWEST_COST_WITH_BID_CAP",
+                "budgetAmount": 1.0,
+                "learningStatus": "LEARNING",
+                "effectiveStatus": "ACTIVE",
+                "optimizationGoal": "OFFSITE_CONVERSIONS",
+                "campaignExternalId": "120211966993860398",
+                "providerCreationTime": "2024-06-18T15:37:34.000000",
+                "providerUpdationTime": "2024-06-28T17:50:42.000000",
+                "buySideProviderAccountExternalId": "548895860761831"
+            },
+            "additionalDetails": {
+                "count": 1,
+                "ad_account_id": "232"
+            },
+            "oldAssets": null,
+            "newAssets": null,
+            "oldDetails": null,
+            "newDetails": null,
+            "oldTargetings": null,
+            "newTargetings": null,
+            "oldName": null,
+            "newName": null,
+            "oldStatus": null,
+            "newStatus": null,
+            "oldEffectiveStatus": null,
+            "newEffectiveStatus": null,
+            "oldBidStrategy": "LOWEST_COST_WITH_BID_CAP",
+            "newBidStrategy": "LOWEST_COST_WITH_BID_CAP",
+            "buySideProviderCode": "fb",
+            "reason": null,
+            "eventMasterName": "ADGROUP_BID_STRATEGY_UPDATE",
+            "entityType": "ADGROUP",
+            "buySideAdAccountId": 232,
+            "userAccountId": 11,
+            "businessAccountId": 2,
+            "teamId": 174,
+            "oldBidAmount": 0.84,
+            "newBidAmount": 0.75,
+            "bidDiff": -0.09,
+            "bidDiffPercent": -0.11,
+            "oldBudgetAmount": null,
+            "newBudgetAmount": null,
+            "budgetDiff": null,
+            "budgetDiffPercent": null,
+            "transactionDateTime": "Value(YearOfEra,4,19,EXCEEDS_PAD)'-'Value(MonthOfYear,2)'-'Value(DayOfMonth,2)",
+            "entityName": "2024_06_18_b1185b9498f937a03522edba616170_set",
+            "adExternalId": null,
+            "adName": null,
+            "adgroupExternalId": "120211966993910398",
+            "adgroupName": "2024_06_18_b1185b9498f937a03522edba616170_set",
+            "campaignExternalID": "120211966993860398",
+            "campaignName": "2024_06_18_b1185b9498f937a03522edba616170",
+            "buySideProviderAccountId": 232,
+            "buySideProviderAccountExternalId": "548895860761831",
+            "buySideProviderAccountName": "FrostMag.com",
+            "teamName": "Team AI XML",
+            "changedById": 11,
+            "changedBy": "system@automate360.com",
+            "changedByType": "SYSTEM",
+            "changeByBusinessAccountId": "2"
+        },
+        {
+            "transactionId": "6db37450-4f2e-47a1-a6d8-b86b1e303c88",
+            "entityId": 9208481,
+            "campaignId": 7299232,
+            "adgroupId": 9208481,
+            "timestamp": "2024-06-28 23:36:56.486364",
+            "startTime": null,
+            "transactionDate": "2024-06-28",
+            "adId": null,
+            "oldValue": {
+                "bidAmount": 0.22,
+                "bidStrategy": "LOWEST_COST_WITH_BID_CAP",
+                "providerUpdationTime": "2024-06-28T07:50:21"
+            },
+            "newValue": {
+                "ads": [
+                    {
+                        "id": "120211966179250398"
+                    },
+                    {
+                        "id": "120211966180070398"
+                    },
+                    {
+                        "id": "120211966179150398"
+                    },
+                    {
+                        "id": "120211966179380398"
+                    },
+                    {
+                        "id": "120211966178960398"
+                    }
+                ],
+                "name": "2024_06_14_339680f7fce26fe826437b648bec84_set",
+                "status": "ACTIVE",
+                "bidAmount": 0.19,
+                "startTime": "2024-06-19T04:00:00.000000",
+                "budgetType": "DAILY",
+                "externalId": "120211966177920398",
+                "internalId": 9208481,
+                "pacingType": [
+                    "standard"
+                ],
+                "targetings": {
+                    "age_max": 65,
+                    "age_min": 18,
+                    "geo_locations": {
+                        "countries": [
+                            "US"
+                        ],
+                        "location_types": [
+                            "home",
+                            "recent"
+                        ]
+                    },
+                    "device_platforms": [
+                        "mobile"
+                    ],
+                    "facebook_positions": [
+                        "feed",
+                        "groups_feed",
+                        "biz_disco_feed",
+                        "facebook_reels",
+                        "facebook_reels_overlay",
+                        "video_feeds",
+                        "instant_article",
+                        "instream_video",
+                        "marketplace",
+                        "story",
+                        "search"
+                    ],
+                    "messenger_positions": [
+                        "messenger_home",
+                        "story"
+                    ],
+                    "publisher_platforms": [
+                        "facebook",
+                        "audience_network",
+                        "messenger"
+                    ],
+                    "excluded_geo_locations": {
+                        "country_groups": [
+                            "europe"
+                        ],
+                        "location_types": [
+                            "home",
+                            "recent"
+                        ]
+                    },
+                    "audience_network_positions": [
+                        "classic",
+                        "instream_video",
+                        "rewarded_video"
+                    ]
+                },
+                "bidStrategy": "LOWEST_COST_WITH_BID_CAP",
+                "budgetAmount": 1.0,
+                "learningStatus": "LEARNING",
+                "effectiveStatus": "ACTIVE",
+                "optimizationGoal": "OFFSITE_CONVERSIONS",
+                "campaignExternalId": "120211966176960398",
+                "providerCreationTime": "2024-06-18T14:46:16.000000",
+                "providerUpdationTime": "2024-06-28T17:50:28.000000",
+                "buySideProviderAccountExternalId": "548895860761831"
+            },
+            "additionalDetails": {
+                "count": 1,
+                "ad_account_id": "232"
+            },
+            "oldAssets": null,
+            "newAssets": null,
+            "oldDetails": null,
+            "newDetails": null,
+            "oldTargetings": null,
+            "newTargetings": null,
+            "oldName": null,
+            "newName": null,
+            "oldStatus": null,
+            "newStatus": null,
+            "oldEffectiveStatus": null,
+            "newEffectiveStatus": null,
+            "oldBidStrategy": "LOWEST_COST_WITH_BID_CAP",
+            "newBidStrategy": "LOWEST_COST_WITH_BID_CAP",
+            "buySideProviderCode": "fb",
+            "reason": null,
+            "eventMasterName": "ADGROUP_BID_STRATEGY_UPDATE",
+            "entityType": "ADGROUP",
+            "buySideAdAccountId": 232,
+            "userAccountId": 11,
+            "businessAccountId": 2,
+            "teamId": 174,
+            "oldBidAmount": 0.22,
+            "newBidAmount": 0.19,
+            "bidDiff": -0.03,
+            "bidDiffPercent": -0.14,
+            "oldBudgetAmount": null,
+            "newBudgetAmount": null,
+            "budgetDiff": null,
+            "budgetDiffPercent": null,
+            "transactionDateTime": "Value(YearOfEra,4,19,EXCEEDS_PAD)'-'Value(MonthOfYear,2)'-'Value(DayOfMonth,2)",
+            "entityName": "2024_06_14_339680f7fce26fe826437b648bec84_set",
+            "adExternalId": null,
+            "adName": null,
+            "adgroupExternalId": "120211966177920398",
+            "adgroupName": "2024_06_14_339680f7fce26fe826437b648bec84_set",
+            "campaignExternalID": "120211966176960398",
+            "campaignName": "2024_06_14_339680f7fce26fe826437b648bec84",
+            "buySideProviderAccountId": 232,
+            "buySideProviderAccountExternalId": "548895860761831",
+            "buySideProviderAccountName": "FrostMag.com",
+            "teamName": "Team AI XML",
+            "changedById": 11,
+            "changedBy": "system@automate360.com",
+            "changedByType": "SYSTEM",
+            "changeByBusinessAccountId": "2"
+        },
+        {
+            "transactionId": "6847b3e4-a485-4def-831d-406d68971c49",
+            "entityId": 9208478,
+            "campaignId": 7299230,
+            "adgroupId": 9208478,
+            "timestamp": "2024-06-28 23:36:55.311045",
+            "startTime": null,
+            "transactionDate": "2024-06-28",
+            "adId": null,
+            "oldValue": {
+                "bidAmount": 0.18,
+                "bidStrategy": "LOWEST_COST_WITH_BID_CAP",
+                "providerUpdationTime": "2024-06-28T12:50:25"
+            },
+            "newValue": {
+                "ads": [
+                    {
+                        "id": "120211965969140398"
+                    },
+                    {
+                        "id": "120211965969400398"
+                    },
+                    {
+                        "id": "120211965968700398"
+                    },
+                    {
+                        "id": "120211965968840398"
+                    },
+                    {
+                        "id": "120211965969280398"
+                    }
+                ],
+                "name": "2024_06_14_579e30bd2720d7a6b2ce9c85e9c283_set",
+                "status": "ACTIVE",
+                "bidAmount": 0.16,
+                "startTime": "2024-06-19T04:00:00.000000",
+                "budgetType": "DAILY",
+                "externalId": "120211965965740398",
+                "internalId": 9208478,
+                "pacingType": [
+                    "standard"
+                ],
+                "targetings": {
+                    "age_max": 65,
+                    "age_min": 18,
+                    "geo_locations": {
+                        "countries": [
+                            "US"
+                        ],
+                        "location_types": [
+                            "home",
+                            "recent"
+                        ]
+                    },
+                    "device_platforms": [
+                        "mobile"
+                    ],
+                    "facebook_positions": [
+                        "feed",
+                        "groups_feed",
+                        "biz_disco_feed",
+                        "facebook_reels",
+                        "facebook_reels_overlay",
+                        "video_feeds",
+                        "instant_article",
+                        "instream_video",
+                        "marketplace",
+                        "story",
+                        "search"
+                    ],
+                    "messenger_positions": [
+                        "messenger_home",
+                        "story"
+                    ],
+                    "publisher_platforms": [
+                        "facebook",
+                        "audience_network",
+                        "messenger"
+                    ],
+                    "excluded_geo_locations": {
+                        "country_groups": [
+                            "europe"
+                        ],
+                        "location_types": [
+                            "home",
+                            "recent"
+                        ]
+                    },
+                    "audience_network_positions": [
+                        "classic",
+                        "instream_video",
+                        "rewarded_video"
+                    ]
+                },
+                "bidStrategy": "LOWEST_COST_WITH_BID_CAP",
+                "budgetAmount": 50.0,
+                "learningStatus": "LEARNING",
+                "effectiveStatus": "ACTIVE",
+                "optimizationGoal": "OFFSITE_CONVERSIONS",
+                "campaignExternalId": "120211965964340398",
+                "providerCreationTime": "2024-06-18T14:23:00.000000",
+                "providerUpdationTime": "2024-06-28T17:50:29.000000",
+                "buySideProviderAccountExternalId": "548895860761831"
+            },
+            "additionalDetails": {
+                "count": 1,
+                "ad_account_id": "232"
+            },
+            "oldAssets": null,
+            "newAssets": null,
+            "oldDetails": null,
+            "newDetails": null,
+            "oldTargetings": null,
+            "newTargetings": null,
+            "oldName": null,
+            "newName": null,
+            "oldStatus": null,
+            "newStatus": null,
+            "oldEffectiveStatus": null,
+            "newEffectiveStatus": null,
+            "oldBidStrategy": "LOWEST_COST_WITH_BID_CAP",
+            "newBidStrategy": "LOWEST_COST_WITH_BID_CAP",
+            "buySideProviderCode": "fb",
+            "reason": null,
+            "eventMasterName": "ADGROUP_BID_STRATEGY_UPDATE",
+            "entityType": "ADGROUP",
+            "buySideAdAccountId": 232,
+            "userAccountId": 11,
+            "businessAccountId": 2,
+            "teamId": 174,
+            "oldBidAmount": 0.18,
+            "newBidAmount": 0.16,
+            "bidDiff": -0.02,
+            "bidDiffPercent": -0.11,
+            "oldBudgetAmount": null,
+            "newBudgetAmount": null,
+            "budgetDiff": null,
+            "budgetDiffPercent": null,
+            "transactionDateTime": "Value(YearOfEra,4,19,EXCEEDS_PAD)'-'Value(MonthOfYear,2)'-'Value(DayOfMonth,2)",
+            "entityName": "2024_06_14_579e30bd2720d7a6b2ce9c85e9c283_set",
+            "adExternalId": null,
+            "adName": null,
+            "adgroupExternalId": "120211965965740398",
+            "adgroupName": "2024_06_14_579e30bd2720d7a6b2ce9c85e9c283_set",
+            "campaignExternalID": "120211965964340398",
+            "campaignName": "2024_06_14_579e30bd2720d7a6b2ce9c85e9c283",
+            "buySideProviderAccountId": 232,
+            "buySideProviderAccountExternalId": "548895860761831",
+            "buySideProviderAccountName": "FrostMag.com",
+            "teamName": "Team AI XML",
+            "changedById": 11,
+            "changedBy": "system@automate360.com",
+            "changedByType": "SYSTEM",
+            "changeByBusinessAccountId": "2"
+        },
+    ]
+}
